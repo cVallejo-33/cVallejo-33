@@ -16,4 +16,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Carlos-vallejo
+[linkedin]: https://linkedin.com/in/Carlos

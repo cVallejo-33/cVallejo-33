@@ -4,10 +4,9 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/cVallejo-33/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/cVallejo-33/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/cVallejo-33/ticket-lifecycle)
+  
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/cVallejo-33/configure-ad)
+ 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/cVallejo-33/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
@@ -16,4 +15,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Carlos
+[linkedin]: https://linkedin.com/in/carlos-vallejo-03b3323b2
